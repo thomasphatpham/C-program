@@ -6,5 +6,5 @@ int main()
 	printf("Hello Minh Phat");
 	printf("Hello ban Minh Phat");
 	printf ("hello hai dang");
-	printfS
+	printf("dcnfsbdck");
 }
