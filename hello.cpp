@@ -7,4 +7,5 @@ int main()
 	printf("Hello ban Minh Phat");
 	printf ("hello hai dang");
 	printf("dcnfsbdck");
+	dssbashjfbckjfbaisjbfkj
 }
